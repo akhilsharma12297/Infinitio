@@ -1,1 +1,1 @@
-![Drag Racing](title.jpg)
+![INFINITO](title.png)
