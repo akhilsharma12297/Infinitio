@@ -1,1 +1,6 @@
 ![INFINITO](title.png)
+![INFINITO](Register.png)
+![INFINITO](Home.png)
+![INFINITO](Rename.png)
+![INFINITO](Album.png)
+![INFINITO](Account.png)
