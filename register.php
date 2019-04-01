@@ -137,7 +137,7 @@
 			<div id="loginText">
 				<h1>Your Protal To INFINTE Music!</h1>
 				<ul>
-					<li>Access To Ultimate Music Of All Kind Of Generus.</li>
+					<li>Access To Ultimate Music Of All Kind Of Genres.</li>
 					<li>Create Playlist Of Songs You Love.</li>
 					<li>Follow Artist You Admire.</li>
 				</ul>
